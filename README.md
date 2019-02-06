@@ -1,2 +1,0 @@
-# Beers
-Created with CodeSandbox
